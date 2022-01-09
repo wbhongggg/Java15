@@ -15,7 +15,6 @@ class CTest extends Thread
       }
    }
 }
-
 public class hw15_3
 {
    public static void main(String args[])
