@@ -15,7 +15,6 @@ class CTest extends Thread
       }
    }
 }
-
 public class Class02
 {
    public static void main(String args[])
