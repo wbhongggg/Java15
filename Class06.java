@@ -17,7 +17,6 @@ class Add implements Runnable
       System.out.println("1+2+...+"+n+"="+sum);
    }
 }
-
 public class Class06
 {
    public static void main(String args[])
