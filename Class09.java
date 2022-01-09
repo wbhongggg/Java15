@@ -21,7 +21,6 @@ class CTest extends Thread implements Runnable
       }
    }
 }
-
 public class Class09
 {
    public static void main(String args[])
