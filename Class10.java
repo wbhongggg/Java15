@@ -19,7 +19,6 @@ class CTest implements Runnable
       }
    }
 }
-
 public class Class10
 {
    public static void main(String args[])
@@ -37,3 +36,4 @@ public class Class10
       t3.start();
       t4.start();
    }
+}
